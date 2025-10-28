@@ -1,6 +1,6 @@
   import React from 'react'
   import HomeLanding from './HomeLanding'
-  import Therapydelivered from './therapydelivered'
+  import Therapydelivered from './Therapydelivered'
   import Klearmind from '../../Components/klearmind'
   import Journey from './Journey'
   import Benefit from './Benefit'
@@ -8,7 +8,7 @@
   import Neuroplasticity from './Neuroplasticity'
   import PopularTreatments from './PopularTreatments'
   import OurApproach from './OurApproach'
-  import Trustedcommunity from "../../Components/trustedcommuntiy"
+  import Trustedcommunity from "../../Components/Trustedcommuntiy"
   import Faqs from '../../Components/Faqs.JSX'
   import testtonimals from "../../assets/images/testtonimals.png"
   import Loader from '../../Components/Loader'
