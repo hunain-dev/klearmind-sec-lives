@@ -1,6 +1,6 @@
 import React from 'react'
 import Button from '../../Components/Button'
-import Trustedcommuntiy from '../../Components/trustedcommuntiy'
+import Trustedcommuntiy from '../../Components/Trustedcommuntiy'
 import Faqs from '../../Components/Faqs'
 import { Link } from 'react-router-dom'
 import useScrollAnimation from '../../hooks/useScrollAnimation'
