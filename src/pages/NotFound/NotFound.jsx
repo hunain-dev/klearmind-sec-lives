@@ -5,7 +5,7 @@ const NotFound = () => {
     <div className="min-h-screen flex flex-col items-center text-center justify-center">
 
         <h2 className="fontspring lg:text-5xl md:text-7xl text-4xl pb-10 text-[#4B312A]">Error <br />
-        Sorry page not found</h2>
+        ohhh Sorry page not found </h2>
         <Button 
               btn="Back to Home" 
               bgcolor="#FD8124" 
