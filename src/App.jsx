@@ -1,7 +1,6 @@
 import LocomotiveScroll from "locomotive-scroll";
 import { Route, Routes} from "react-router-dom";
 import Home from "./pages/Home/Home";
-import Ketaminetherapy from "./pages/Ketaminetherapy/Ketaminetherapy";
 import Loader from "./Components/Loader";
 import Ketamineinfusion from "./pages/ketamineinfusion/ketamineinfusion";
 import KlearmindDetail from "./Components/KlearmindDetail";
@@ -13,7 +12,7 @@ import Blog from "./pages/Blog/Blog";
 import BlogDetails from "./Components/BlogDetails";
 import NotFound from "./pages/NotFound/NotFound";
 import Wellnesthraypy from "./pages/Wellnesthraypy/wellnesthraypy";
-
+import Ketaminetherapy from "./pages/Ketaminetherapy/Ketaminetherapy"
 const App = () => {
     const scroll = new LocomotiveScroll();
 return (
