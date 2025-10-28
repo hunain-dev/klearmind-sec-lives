@@ -4,7 +4,7 @@ import Therapy from './Therapy'
 import Klearmind from '../../Components/klearmind'
 import FormsofTreatment from './FormsofTreatment'
 import Trustedcommuntiy from '../../Components/Trustedcommuntiy'
-import Faqs from '../../Components/Faqs.JSX'
+import Faqs from '../../Components/Faqs'
 import Psychotherapy from './Psychotherapy'
 import Lifedeserve from '../../Components/Lifedeserve'
 import therapyImg from "../../assets/images/mankids.png"
