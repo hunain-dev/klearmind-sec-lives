@@ -1,7 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import Lifedeserve from '../../Components/Lifedeserve'
-import bloomlife from "../../assets/Video/bloomlife.mp4"
+import bloomlife from "../../assets/Video/Bloomlife.mp4"
 
 const HomeLanding = () => {
   return (
