@@ -3,7 +3,7 @@ import { Route, Routes} from "react-router-dom";
 import Home from "./pages/Home/Home";
 import Loader from "./Components/Loader";
 import Scrollertop from "./Components/Scrollertop";
-import Wellnesthraypy from "./pages/Wellnesthraypy/wellnesthraypy";
+import Wellnesthraypy from "./pages/Wellnesthraypy/Wellnesthraypy";
 import Ketaminetherapy from "./pages/Ketaminetherapy/Ketaminetherapy"
 import Ketamineinfusion from "./pages/ketamineinfusion/Ketamineinfusion";
 import KlearmindDetail from "./Components/KlearmindDetail";
