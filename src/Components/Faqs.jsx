@@ -3,7 +3,7 @@ import Button from './Button'
 import  { useState } from "react";
 import useScrollAnimation from '../hooks/useScrollAnimation';
 
-const faqs = [
+const Faqss = [
   {
     question: "What conditions does ketamine therapy treat?",
     answer: "Ketamine therapy is used to treat depression, anxiety, PTSD, and chronic pain."
@@ -70,7 +70,7 @@ const Faqs = () => {
         <div ref={faqsRef} className='h-full '>
            <div className="lg:py-12 py-9 lg:px-1 px-4">
       <div className="lg:space-y-7 space-y-10">
-        {faqs.map((faq, index) => (
+        {Faqss.map((faq, index) => (
           <div
             key={index}
             className="border-b border-gray-400 lg:pb-4 cursor-pointer"

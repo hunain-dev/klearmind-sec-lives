@@ -9,7 +9,7 @@
   import PopularTreatments from './PopularTreatments'
   import OurApproach from './OurApproach'
   import Trustedcommunity from "../../Components/Trustedcommuntiy"
-  import Faqs from '../../Components/Faqs.JSX'
+  import Faqs from '../../Components/Faqs'
   import testtonimals from "../../assets/images/testtonimals.png"
   import Loader from '../../Components/Loader'
 
