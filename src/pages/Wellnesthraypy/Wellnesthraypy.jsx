@@ -6,7 +6,7 @@ import VitaminIV from './VitaminIV'
 import Ourmission from './Ourmission'
 import Invest from './Invest'
 import Testimonial from '../../Components/Testimonial'
-import Faqs from '../../Components/Faqs.JSX'
+import Faqs from '../../Components/Faqs'
 import smiling from "../../assets/images/smiling.png"
 import Loader from '../../Components/Loader'
 const Wellnesthraypy = () => {
