@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import ai from "../assets/images/AI.PNG";
+import ai from "../assets/images/Ai.png";
 import Button from "../Components/Button.jsx";
 import { RiArrowGoBackFill } from "react-icons/ri";
 import { AiOutlineMinus } from "react-icons/ai";
