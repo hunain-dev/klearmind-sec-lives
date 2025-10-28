@@ -2,7 +2,7 @@ import React from "react";
 import Button from "./Button";
 import rose from "../assets/images/Rose.png";
 import riseup from "../assets/Video/riseup.mp4"
-import klearlogo from "../assets/images/klearlogo.svg"
+import klearlogo from "../assets/images/Klearlogo.svg"
 import useScrollAnimation from '../hooks/useScrollAnimation';
 const Footer = () => {
   // Animation refs
