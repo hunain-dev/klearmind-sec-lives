@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import Button from '../../Components/Button'
 import fact from "../../assets/images/masks.png"
 import Doctor from "../../assets/images/doctor.png"
-import energy from "../../assets/images/energy.png"
+import energy from "../../assets/images/Energy.png"
 import smile from "../../assets/images/Smile.png"
 import compition from "../../assets/images/compition.png"
 import useScrollAnimation from '../../hooks/useScrollAnimation'
